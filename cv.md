@@ -8,7 +8,7 @@ __GitHub:__ kr970
 ## About me
 I am a motivated and enthusiastic learner with good problem-solving skills.
 I enjoy working in a team and can communicate well with others. 
-I always ready to learn new things and improve my skills.
+I am always ready to learn new things and improve my skills.
 ## Skills
 * HTML5, CSS3
 * Tailwind
@@ -16,7 +16,7 @@ I always ready to learn new things and improve my skills.
 * TypeScript
 * React
 * Redux
-* GIT
+* Git
 * Figma
 ## Code example
 __Two Sum from Leetcode:__ Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
